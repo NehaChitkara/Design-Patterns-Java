@@ -5,7 +5,7 @@ These have been well-tested by numerous developers, and have been known to speed
 Design patterns make it easier for developers talk about the general solutions during the development of the software.
 
 Some common design patterns are as depicted in the picture
-<img src="/assets/types.png" alt="Design patterns in java"></img>
+<img src="/assets/types.gif" alt="Design patterns in java"></img>
 
 <ul>
   <li><b>Creational</b> - How to create the object</li>
